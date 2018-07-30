@@ -1,3 +1,3 @@
 def spin
-puts "Spinning planet"
+puts "Spinning"
 end
